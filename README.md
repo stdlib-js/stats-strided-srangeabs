@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Compute the [range][range] of absolute values of a single-precision floating-point strided array.
+> Calculate the [range][range] of absolute values of a single-precision floating-point strided array.
 
 <section class="intro">
 
