@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-11)
+## Unreleased (2026-07-28)
 
 <section class="commits">
 
@@ -12,7 +12,7 @@
 
 <details>
 
--   [`ba77943`](https://github.com/stdlib-js/stdlib/commit/ba77943bb69dcdf1db89c7b1e5e786acab35dfe6) - **docs:** updae descriptions in `stats/strided/*abs` package descriptions [(#12310)](https://github.com/stdlib-js/stdlib/pull/12310) _(by Philipp Burckhardt)_
+-   [`ba77943`](https://github.com/stdlib-js/stdlib/commit/ba77943bb69dcdf1db89c7b1e5e786acab35dfe6) - **docs:** update descriptions in `stats/strided/*abs` package descriptions [(#12310)](https://github.com/stdlib-js/stdlib/pull/12310) _(by Philipp Burckhardt)_
 
 </details>
 
